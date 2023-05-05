@@ -6,4 +6,4 @@ Millimeter-wave-based extended target tracking has attracted extensive interest 
 This research was accepted into Remote Sensing.
 
 
-This is only a small part of the data set, and it is the point cloud result that has been preprocessed locally. Since the original data is too large, if you need more data, you can contact my email — mqjiang@std.uestc.edu.cn.
+This is only a small part of the data set, and it is the point cloud result that has been preprocessed locally. Since the original data is too large, if you need more data, you can contact me by email — mqjiang@std.uestc.edu.cn.
